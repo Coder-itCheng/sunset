@@ -2,7 +2,7 @@
 
 ### 项目介绍
 
-服务端：`SpringBoot` + `SpringCloud` + `MyBatis` + `SpringSecurity` + `Jwt` +  `Redis` + `RabbitMQ`
+服务端：`SpringBoot` + `SpringCloud` + `MyBatis` + `SpringSecurity` + `Jwt` +  `Redis` + `RabbitMQ` + `Swagger`
 
 数据库：`MongoDB` + `MySQL`
 
@@ -22,3 +22,4 @@ config-center
 ...
 ```
 
+<u>组员：胡志成57（组长）、温华威12、李赟浩52、林一帆15、李雨钊20</u>

@@ -21,9 +21,6 @@ import com.netflix.zuul.context.RequestContext;
  * 黑名单ip变化不会太频繁，<br>
  * 考虑到性能，我们不实时掉接口从别的服务获取了，<br>
  * 而是定时把黑名单ip列表同步到网关层,
- * 
- * @author 小威老师
- *
  */
 @Component
 public class BlackIPAccessFilter extends ZuulFilter {

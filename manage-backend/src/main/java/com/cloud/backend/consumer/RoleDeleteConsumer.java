@@ -13,7 +13,6 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 删除角色时，处理消息
  * 
- * @author 小威老师
  *
  */
 @Slf4j

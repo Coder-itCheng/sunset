@@ -4,7 +4,9 @@
 .site-tree{width: 220px; min-height: 900px; padding: 5px 0 20px;}
 .site-content{width: 899px; min-height: 900px; padding: 20px 0 10px 20px;}
 
-/* 头部 */admin-side-toggle
+/* 头部 */
+
+admin-side-toggle
 .header{height: 65px; border-bottom: 1px solid #404553;  background-color: #393D49; color: #fff;}
 .logo{position: absolute; left: 0; top: 18px;}
 .logo img{width: 82px; height: 31px;}
@@ -334,6 +336,10 @@ body .site-demo-nav .layui-nav-item{line-height: 40px}
     background-color: #1AA094;
     line-height: 30px;
     top: 25%;
+}
+
+.admin-side-toggle {
+    left: 155px;
 }
 .admin-side-toggle:hover{
 	background-color: #5FB878;

@@ -17,7 +17,6 @@ import org.springframework.stereotype.Service;
 /**
  * redis存储授权码
  * 
- * @author 小威老师 xiaoweijiagou@163.com
  *
  */
 @Service
